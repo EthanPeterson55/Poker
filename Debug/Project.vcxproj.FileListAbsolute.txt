@@ -1,0 +1,8 @@
+C:\Users\Ethan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++\Project32_VS2022\Debug\Project.exe
+C:\Users\Ethan\Desktop\Project32_VS2022\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Assignmnet 2\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Assignmnet 3 2\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Assignment 4\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Assignment 5\Debug\Project.exe
+C:\Users\Ethan\Desktop\CS 271 Assignments\Final Project\Debug\Project.exe
